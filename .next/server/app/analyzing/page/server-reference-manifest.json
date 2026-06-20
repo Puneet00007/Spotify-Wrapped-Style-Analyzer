@@ -1,0 +1,20 @@
+{
+  "node": {
+    "00fecbe5166d35d114655b9cfbc12c210c76543301": {
+      "workers": {
+        "app/analyzing/page": {
+          "moduleId": 47136,
+          "async": false,
+          "exportedName": "processUserData",
+          "filename": "app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/analyzing/page": "action-browser"
+      },
+      "exportedName": "processUserData",
+      "filename": "app/actions.ts"
+    }
+  },
+  "edge": {}
+}
